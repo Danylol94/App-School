@@ -1,5 +1,5 @@
 import * as React from 'react';
-
+       
 import Alert from '@mui/material/Alert';
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
@@ -83,7 +83,7 @@ export function Pagos() {
           >
             <br />
             <br />
-
+                 
             <Card
               raised={paymentType === 'creditCard'}
               sx={{
